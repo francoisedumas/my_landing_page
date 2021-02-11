@@ -1,0 +1,14 @@
+.footer {
+  background-color: grey;
+  height: 150px;
+  text-align: center;
+  padding: 40px;
+  color: white;
+}
+
+
+.fab {
+  font-size: 20px;
+  padding: 30px 5px;
+  color: white;
+}
